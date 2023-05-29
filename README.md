@@ -1,6 +1,13 @@
 # menstural_tracker
 
-A new Flutter project.
+This a Flutter project that use table calendar and Date picker libraries to track your periods.
+Simply click on choose period date button as shown below
+![WhatsApp Image 2023-05-29 at 22 03 41](https://github.com/MuznaAskari/Flutter-Menstural-Tracker/assets/96460910/14555894-7196-42e3-b19b-7c46fabb4dbe)
+Your Date Picker allows you to select from a range of dates.
+Once the date is choosen click on the save button.
+![WhatsApp Image 2023-05-29 at 22 03 41](https://github.com/MuznaAskari/Flutter-Menstural-Tracker/assets/96460910/d4ed662c-50fc-4891-981d-03f971328635)
+The calendar on your home page now has a range of dates selected that includes your period days, post period days, Pre period dates and ovalution days.
+![WhatsApp Image 2023-05-29 at 22 03 42](https://github.com/MuznaAskari/Flutter-Menstural-Tracker/assets/96460910/ec1d8cb9-aa9d-4cd6-98cf-d14629855a17)
 
 ## Getting Started
 
